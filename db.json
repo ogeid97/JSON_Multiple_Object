@@ -12,7 +12,7 @@
    {
    "nome": "BMW",
    "prezzo": 50000 
- }], 
+ }]}, 
  {
  "id": 2,
  "name": "Josh", 
@@ -25,7 +25,7 @@
    {
    "nome": "BMW",
    "prezzo": 60000 
- }],
+ }]},
  {
  "id": 3,
  "name": "Urih", 
@@ -38,7 +38,7 @@
    { 
    "nome": "Audi",
    "prezzo": 80000 
- }], 
+ }]}, 
  {
  "id": 4,
  "name": "John", 
@@ -51,7 +51,7 @@
    { 
    "nome": "BMW",
    "prezzo": 50000 
- }],
+ }]},
  {
  "id": 5,
  "name": "John", 
@@ -64,6 +64,6 @@
    {
    "nome": "BMW",
    "prezzo": 50000 
- }]
+ }]}
 ]
 }
