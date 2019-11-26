@@ -4,31 +4,61 @@
  "id": 1,
  "name": "John", 
  "age": 39, 
- "car": ["Audi","Mitsubishi"] 
- }, 
+ "car": [ 
+   {
+   "nome": "Audi",
+   "prezzo": 39000
+   },
+   "nome": "BMW",
+   "prezzo": 50000 
+ }], 
  {
  "id": 2,
  "name": "Josh", 
- "age":34, 
- "car": ["BMW"] 
- },
+ "age": 34, 
+ "car": [ 
+   {
+   "nome": "Dacia",
+   "prezzo": 19000
+   },
+   "nome": "BMW",
+   "prezzo": 60000 
+ }],
  {
  "id": 3,
  "name": "Urih", 
- "age":54, 
- "car": ["Dacia", "Renault", "Subaru"] 
- },
+ "age": 54, 
+ "car": [ 
+   {
+   "nome": "Rover",
+   "prezzo": 69000
+   },
+   "nome": "Audi",
+   "prezzo": 80000 
+ }], 
  {
  "id": 4,
  "name": "John", 
  "age": 25, 
- "car": ["BMW", "Audi"]
- },
+ "car": [ 
+   {
+   "nome": "Audi",
+   "prezzo": 39000
+   },
+   "nome": "BMW",
+   "prezzo": 50000 
+ }],
  {
  "id": 5,
  "name": "John", 
  "age": 36, 
- "car": ["BMW", "Nissan"]
- }
- ]
+ "car": [ 
+   {
+   "nome": "Audi",
+   "prezzo": 39000
+   },
+   "nome": "BMW",
+   "prezzo": 50000 
+ }]
+]
 }
